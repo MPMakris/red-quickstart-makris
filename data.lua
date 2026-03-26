@@ -272,7 +272,7 @@ data:extend({
     stack_size = 1,
     infinite = true,
     equipment_grid = 'rr-equipment-grid',
-    inventory_size_bonus = 100,
+    inventory_size_bonus = 300,
     provides_flight = feature_flags.space_travel,
     open_sound = { filename = '__base__/sound/armor-open.ogg', volume = 1 },
     close_sound = { filename = '__base__/sound/armor-close.ogg', volume = 1 },
