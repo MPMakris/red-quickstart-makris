@@ -40,6 +40,7 @@ local item_list = {
 	{  200, 'arithmetic-combinator'},
     {  200, 'decider-combinator'},
 	{  200, 'constant-combinator'},
+	{  50, 'selector-combinator'},
 	{  10, 'locomotive'},
 	{  40, 'cargo-wagon'},
 	{  4000, 'rail'},
