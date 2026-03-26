@@ -43,6 +43,7 @@ local item_list = {
 	{  10, 'locomotive'},
 	{  40, 'cargo-wagon'},
 	{  4000, 'rail'},
+	{  100, 'radar'},
 }
 
 -- Add items to player inventory
