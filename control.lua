@@ -17,10 +17,10 @@ local item_list = {
 	{  2, 'offshore-pump'},
 	{  200, 'stone-furnace'},
 	{  50, 'assembling-machine-1'},
-	{  50, 'assembling-machine-2'},
+	{  150, 'assembling-machine-2'},
 	{  50, 'iron-chest'},
 	{  500, 'steel-chest'},
-	{  6000, 'transport-belt'},
+	{  10000, 'transport-belt'},
 	{  300, 'underground-belt'},
 	{  300, 'splitter'},
 	{  4, 'burner-inserter'},
@@ -42,7 +42,7 @@ local item_list = {
 	{  200, 'constant-combinator'},
 	{  10, 'locomotive'},
 	{  40, 'cargo-wagon'},
-	{  4000, 'straight-rail'},
+	{  4000, 'rail'},
 }
 
 -- Add items to player inventory
