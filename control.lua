@@ -13,7 +13,7 @@ local item_list = {
 	{  20, 'boiler'},
 	{  40, 'steam-engine'},
 	{  50, 'burner-mining-drill'},
-	{  200, 'electric-mining-drill'},
+	{  600, 'electric-mining-drill'},
 	{  2, 'offshore-pump'},
 	{  200, 'stone-furnace'},
 	{  50, 'assembling-machine-1'},
